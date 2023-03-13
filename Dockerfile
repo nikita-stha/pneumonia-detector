@@ -6,6 +6,7 @@ RUN apt-get update &&\
     apt-get install\
     ffmpeg\
     gcc\
+    git-all\
     libsm6\
     libxext6\
     musl-dev\

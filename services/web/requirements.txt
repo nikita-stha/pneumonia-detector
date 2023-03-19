@@ -1,0 +1,10 @@
+Flask==1.1.2
+flask_sqlalchemy==2.5.1
+gunicorn==20.1.0
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+python-dotenv==1.0.0
+requests==2.25.1
+twilio==7.16.5
+werkzeug==2.0.3

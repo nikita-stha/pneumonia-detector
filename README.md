@@ -10,6 +10,8 @@ A simple web application to detect pnuemonia.
 - Twilio Account (https://www.twilio.com/try-twilio)
 - Twilio ACCOUNT_SID & AUTH_TOKEN
 - Huggingface Inference API token. (Your model needs to be deployed in huggingface)
+- [Link to Colab Notebook for the model used.](https://colab.research.google.com/drive/1wdhTEFm4_As7XMzXDjflHhxK3MUWSjRn?usp=sharing)
+- [Link to model deployed in huggingface] (https://huggingface.co/niki-stha/vit-pneumonia-detector)
 - Docker for local ( development & deployent)
 - Docker-compose
 

@@ -8,6 +8,7 @@ A simple web application to detect pnuemonia.
 - Huggingface Inference API token. (Your model needs to be deployed in huggingface)
 - Docker for local ( development & deployent)
 - Docker-compose
+- In file web/project/constants.py Update the phone number that you will use for Text message alert.
 
 ## Quickstart Guide for Local Development
 

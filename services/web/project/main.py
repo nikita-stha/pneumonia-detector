@@ -2,9 +2,7 @@ import os
 from werkzeug.utils import secure_filename
 from flask import render_template, send_from_directory, Flask, flash, request, redirect, url_for
 
-import sms
-import inference
-import constants
+from project import sms, inference, constants
 
 
 app = Flask(__name__)

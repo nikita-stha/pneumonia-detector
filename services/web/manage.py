@@ -1,9 +1,8 @@
 from flask.cli import FlaskGroup
 
-import project
+from project.main import app
 
-
-cli = FlaskGroup(project)
+cli = FlaskGroup(app)
 
 
 @cli.command("start_server")

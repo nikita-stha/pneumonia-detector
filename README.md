@@ -2,6 +2,7 @@
 A simple web application to detect pnuemonia.
 
 ## Demo
+You can try this project [here in replit](https://replit.com/@nikita-stha/CancerDetection?v=1).
 [Screencast from 03-18-2023 01:37:06 PM.webm](https://user-images.githubusercontent.com/66687885/226152452-c3a40ce2-3cd4-41eb-91d4-cba3da860fd4.webm)
 
 
